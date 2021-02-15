@@ -1,2 +1,7 @@
 # Data-Analysis-of-Venues-and-Housing-Reference-Prices-in-Tirana
 Coursera Capstone Project - IBM Data Scientist Professional  Certificate
+
+As a born and raised citizen of Tirana, I have decided to perform my analysis on the venues and housing prices of this city.
+Tirana is the heart and capital of Albania, where over half a million people live. The city's territory has been inhabited since the Iron Age, but its history as a modern city began in 1614 when Sulejman Pasha Bargjini, a rich feudal from the village of Mullet, built four main buildings that became the centre of the new town: a mosque, a Turkish bath, a bakery, and some inns. Since 1920, this city has been the capital of Albania and is the most important economic, financial, political and trade centre in Albania.
+It is becoming more challenging for investors to find the right place to invest for their businesses in Tirana, which is growing and getting crowded each year. Investors prefer to buy properties in neighbourhoods with a lower price that would fit to the type of business they plan to establish.
+The aim of this project is to help investors understand the housing reference prices and categories of venues operating for each neighbourhood. To achieve this, a map of Tirana and its neighbourhoods will be created, reflecting information on the real estate index (Housing Reference Prices) and common venues operating in these areas.
